@@ -1,6 +1,5 @@
 -  Hi, I’m @SriPraveen-05
 -  I’m interested in web developnment
--  I’m currently learning frameworks like bootstrap,reactjs
 -  I’m looking to collaborate on various companies
 -  How to reach me @SriPraveen-05
 
